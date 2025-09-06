@@ -184,13 +184,10 @@ MIT License
 
 ## Equipe
 
-* Lucas Albuquerque Jorge
-* Marco Antonio
-* Yara Correa
-* Tiago Shimizu
+* Hermes Renato Serra
 
-## Landing page -> https://lucas-jorge.github.io/MeuTreino.github.io/
-## Video -> https://github.com/lucas-jorge/MeuTreino/blob/main/Video/Video%20de%20apresenta%C3%A7%C3%A3o.mp4
+## Landing page -> https://github.com/HermesSerra/MeuTreino
+## Video -> https://github.com/HermesSerra/MeuTreino/tree/main/MeuTreino-main/Video
 ## Images
 ![API](https://github.com/lucas-jorge/MeuTreino/blob/main/Imagens/API.jpg)
 ![Login page](https://github.com/lucas-jorge/MeuTreino/blob/main/Imagens/Login.jpg)
