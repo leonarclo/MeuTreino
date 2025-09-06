@@ -185,6 +185,7 @@ MIT License
 ## Equipe
 
 * Hermes Renato Serra
+* João Paulo Cavalcante de Lima
 
 ## Landing page -> https://github.com/HermesSerra/MeuTreino
 ## Video -> https://github.com/HermesSerra/MeuTreino/tree/main/MeuTreino-main/Video
