@@ -187,6 +187,7 @@ MIT License
 * Hermes Renato Serra
 * João Paulo Cavalcante de Lima
 * Israel Augusto
+* João Henrique Rocha Camargo 
 
 ## Landing page -> https://github.com/HermesSerra/MeuTreino
 ## Video -> https://github.com/HermesSerra/MeuTreino/tree/main/MeuTreino-main/Video
