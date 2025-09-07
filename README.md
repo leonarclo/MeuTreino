@@ -188,7 +188,7 @@ MIT License
 * João Paulo Cavalcante de Lima
 * Israel Augusto
 * João Henrique Rocha Camargo 
-* Johny Rodrigo Luvizptto
+* Johny Rodrigo Luvizotto
 
 ## Landing page -> https://github.com/HermesSerra/MeuTreino
 ## Video -> https://github.com/HermesSerra/MeuTreino/tree/main/MeuTreino-main/Video
