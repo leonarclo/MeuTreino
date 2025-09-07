@@ -187,10 +187,11 @@ MIT License
 
 ## Equipe
 
-- Lucas Albuquerque Jorge
-- Marco Antonio
-- Yara Correa
-- Tiago Shimizu
+- Hermes Renato Serra
+- João Paulo Cavalcante de Lima
+- Israel Augusto
+- João Henrique Rocha Camargo
+- Johny Rodrigo Luvizotto
 - Leonardo dos Santos Lima
 
 ## Landing page -> https://lucas-jorge.github.io/MeuTreino.github.io/
